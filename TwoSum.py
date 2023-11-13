@@ -4,7 +4,7 @@
     locate two elements in the array that sum up to the target integer.
     If there are no two such numbers, return an empty array
 
-    Time: O(NlogN), where N is the number of elements in the array
+    Time: O(N^2), where N is the number of elements in the array
     Space: O(1)
     
     Example:
